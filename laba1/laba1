@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-09T20:49:59.700Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 OPR/79.0.4143.73" etag="bxfPB9MlGpr8MP3-DhD6" version="15.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-09T20:51:45.828Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 OPR/79.0.4143.73" etag="ZLXj5I5w51fJqg6fswmb" version="15.5.0" type="github">
   <diagram id="6cnHnXQGJBww_VuG7hVZ" name="Page-1">
     <mxGraphModel dx="1973" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -262,7 +262,7 @@
         <mxCell id="6nYT1UHZzvWNue16Z3d3-23" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="575" y="600" width="50" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6nYT1UHZzvWNue16Z3d3-25" value="Переход на стр. 9" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="6nYT1UHZzvWNue16Z3d3-25" value="Переход на стр. 8" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="615" y="615" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eDE-UaiXTyKL_XnxQRhC-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="6nYT1UHZzvWNue16Z3d3-26">
@@ -282,7 +282,7 @@
         <mxCell id="6nYT1UHZzvWNue16Z3d3-30" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1260" y="740" width="50" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6nYT1UHZzvWNue16Z3d3-31" value="Переход на стр. 8" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="6nYT1UHZzvWNue16Z3d3-31" value="Переход на стр. 7" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1300" y="755" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
