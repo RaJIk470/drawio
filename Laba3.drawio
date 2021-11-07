@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-07T14:45:30.389Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 OPR/80.0.4170.61" etag="LbXJe7jck4JHfh8-7AFQ" version="15.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-07T15:39:58.020Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 OPR/80.0.4170.61" etag="5PQ24L1UfpmXrEmcSpI-" version="15.6.8" type="github">
   <diagram id="QtlOIZDr2f9fOaWSwTqy" name="Page-1">
-    <mxGraphModel dx="3453" dy="1968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1973" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -980,12 +980,6 @@
         </mxCell>
         <mxCell id="mo-sXrp52Y_NnzKaUsil-426" value="Нет&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="2993" y="502" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="mo-sXrp52Y_NnzKaUsil-427" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="2355" y="530" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mo-sXrp52Y_NnzKaUsil-428" value="Нет&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="2330" y="608" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mo-sXrp52Y_NnzKaUsil-429" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="3605" y="188" width="60" height="30" as="geometry" />
