@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-11T13:51:45.998Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 OPR/80.0.4170.91" etag="qjQsw5SlEWx_q-cExXlb" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-11T13:54:42.694Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 OPR/80.0.4170.91" etag="wbHMypYRA4X6ljW0d_CY" version="15.7.0" type="github">
   <diagram id="UOqkufk7XXMxplqXsK38" name="Page-1">
     <mxGraphModel dx="2762" dy="1574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -526,10 +526,10 @@
             <mxPoint x="640" y="3210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SIjMMrmNhATLVY4MGX8Y-186" value="К стр.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="SIjMMrmNhATLVY4MGX8Y-186" value="К стр. 8" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="575" y="3185" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SIjMMrmNhATLVY4MGX8Y-187" value="К стр.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="SIjMMrmNhATLVY4MGX8Y-187" value="К стр. 11" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="780" y="3185" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SIjMMrmNhATLVY4MGX8Y-188" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
@@ -541,7 +541,7 @@
             <mxPoint x="390" y="3370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SIjMMrmNhATLVY4MGX8Y-190" value="К стр.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="SIjMMrmNhATLVY4MGX8Y-190" value="Из стр. 10" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="530" y="3345" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SIjMMrmNhATLVY4MGX8Y-191" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
@@ -553,7 +553,7 @@
             <mxPoint x="575" y="3849.98" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SIjMMrmNhATLVY4MGX8Y-193" value="К стр.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="SIjMMrmNhATLVY4MGX8Y-193" value="К стр. 8" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="715" y="3824.98" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SIjMMrmNhATLVY4MGX8Y-194" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
@@ -565,7 +565,7 @@
             <mxPoint x="74.94" y="2270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SIjMMrmNhATLVY4MGX8Y-196" value="К стр.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="SIjMMrmNhATLVY4MGX8Y-196" value="Из стр. 9&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="214.94" y="2245" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SIjMMrmNhATLVY4MGX8Y-197" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontFamily=Times New Roman;fontSize=13;flipV=1;flipH=1;" vertex="1" parent="1">
@@ -577,7 +577,7 @@
             <mxPoint x="510" y="1890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SIjMMrmNhATLVY4MGX8Y-199" value="К стр.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="SIjMMrmNhATLVY4MGX8Y-199" value="К стр. 10&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="640" y="1865" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SIjMMrmNhATLVY4MGX8Y-200" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
@@ -589,7 +589,7 @@
             <mxPoint x="115" y="1190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SIjMMrmNhATLVY4MGX8Y-202" value="К стр.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="SIjMMrmNhATLVY4MGX8Y-202" value="Из стр. 8&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="255" y="1165" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SIjMMrmNhATLVY4MGX8Y-203" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
@@ -601,7 +601,7 @@
             <mxPoint x="549" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SIjMMrmNhATLVY4MGX8Y-205" value="К стр.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="SIjMMrmNhATLVY4MGX8Y-205" value="К стр. 9" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="689" y="705" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SIjMMrmNhATLVY4MGX8Y-206" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
