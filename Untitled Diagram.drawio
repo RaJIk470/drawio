@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-16T12:54:28.687Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 OPR/80.0.4170.91" etag="IqMWB6RUY1MBh45pYbE2" version="15.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-16T12:56:10.217Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 OPR/80.0.4170.91" etag="nbGr4uv512fdXNtptuxi" version="15.7.4" type="github">
   <diagram id="jJNzSYbowdD1MDir5mqe" name="Page-1">
     <mxGraphModel dx="1676" dy="3100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -508,7 +508,11 @@
         </mxCell>
         <mxCell id="dUmzm0TEQAHFUmSsL2kq-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=16;endArrow=none;endFill=0;" edge="1" parent="1" source="dUmzm0TEQAHFUmSsL2kq-173">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="760" y="6530" as="targetPoint" />
+            <mxPoint x="710" y="6530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="710" y="5990" />
+              <mxPoint x="710" y="6530" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="dUmzm0TEQAHFUmSsL2kq-173" value="Условие" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=21;strokeWidth=1;" vertex="1" parent="1">
@@ -577,39 +581,42 @@
           <mxGeometry x="314" y="6460" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dUmzm0TEQAHFUmSsL2kq-194" value="A4&lt;br&gt;I := MaxPolLength + 1;&lt;br&gt;I &amp;lt;= N" style="shape=loopLimit;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="6120" width="160" height="60" as="geometry" />
+          <mxGeometry x="520" y="6120" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dUmzm0TEQAHFUmSsL2kq-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=20;endArrow=none;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="630" y="6200.020000000001" as="targetPoint" />
-            <mxPoint x="629.9411764705883" y="6179.997941176471" as="sourcePoint" />
+            <mxPoint x="600" y="6200.020000000001" as="targetPoint" />
+            <mxPoint x="599.9411764705883" y="6179.997941176471" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dUmzm0TEQAHFUmSsL2kq-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=20;endArrow=none;endFill=0;" edge="1" parent="1" source="dUmzm0TEQAHFUmSsL2kq-197" target="dUmzm0TEQAHFUmSsL2kq-199">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dUmzm0TEQAHFUmSsL2kq-197" value="Sm[I] := Sn[I]" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="6200.02" width="160" height="60" as="geometry" />
+          <mxGeometry x="520" y="6200.02" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dUmzm0TEQAHFUmSsL2kq-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=20;endArrow=open;endFill=0;" edge="1" parent="1" source="dUmzm0TEQAHFUmSsL2kq-199">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="415" y="6440" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="630" y="6440" />
+              <mxPoint x="600" y="6440" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="dUmzm0TEQAHFUmSsL2kq-199" value="I := I + 1&lt;br style=&quot;font-size: 20px;&quot;&gt;A4" style="shape=loopLimit;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=20;strokeWidth=1;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="6280" width="160" height="60" as="geometry" />
+          <mxGeometry x="520" y="6280" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dUmzm0TEQAHFUmSsL2kq-210" value="Выход" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="332" y="6560" width="164" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dUmzm0TEQAHFUmSsL2kq-213" value="" style="endArrow=open;html=1;rounded=0;fontFamily=Times New Roman;fontSize=20;endFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="760" y="6530" as="sourcePoint" />
+            <mxPoint x="710" y="6530" as="sourcePoint" />
             <mxPoint x="414" y="6530" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="dUmzm0TEQAHFUmSsL2kq-214" value="Вывод, что строка уже ппалиндром" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fontSize=20;strokeWidth=1;spacingLeft=8;" vertex="1" parent="1">
+          <mxGeometry x="610" y="6460" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
