@@ -1,1 +1,295 @@
-<mxfile host="app.diagrams.net" modified="2021-12-21T14:10:17.851Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 OPR/82.0.4227.44" etag="FXqrNHSns9XhLHv0khry" version="15.9.6" type="github"><diagram id="AyU8yrLxnLTswNd8ZuuC" name="Page-1">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-18T10:48:24.535Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 OPR/82.0.4227.50" etag="0a_tvzhhIqE0f5Li7SNM" version="16.0.2" type="github">
+  <diagram id="AyU8yrLxnLTswNd8ZuuC" name="Page-1">
+    <mxGraphModel dx="936" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bTbruFKralg8F1_GHAUO-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=18;endArrow=none;endFill=0;" parent="1" source="bTbruFKralg8F1_GHAUO-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-1" value="Вход" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=18;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="354" y="30" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=18;endArrow=none;endFill=0;" parent="1" source="bTbruFKralg8F1_GHAUO-4" target="bTbruFKralg8F1_GHAUO-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-4" value="Ввод Year" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fontSize=18;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="344" y="80" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=18;endArrow=none;endFill=0;" parent="1" source="bTbruFKralg8F1_GHAUO-5" target="bTbruFKralg8F1_GHAUO-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-5" value="IsLeapYear := False" style="whiteSpace=wrap;html=1;fontSize=18;fontFamily=Times New Roman;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="150" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=18;endArrow=open;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="bTbruFKralg8F1_GHAUO-7" target="bTbruFKralg8F1_GHAUO-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=18;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="bTbruFKralg8F1_GHAUO-7" target="bTbruFKralg8F1_GHAUO-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-7" value="Условие" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Times New Roman;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-10" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontFamily=Times New Roman;fontSize=18;flipH=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="210" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-12" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Times New Roman;fontSize=18;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="bTbruFKralg8F1_GHAUO-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="230" as="sourcePoint" />
+            <mxPoint x="320" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-13" value="&lt;span lang=&quot;RU&quot; style=&quot;font-size: 14.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;font-size: 14.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;Year&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 14.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;mod&lt;/span&gt;&lt;span lang=&quot;RU&quot; style=&quot;font-size: 14.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt; 4 = 0) &lt;/span&gt;&lt;span style=&quot;font-size: 14.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;and&lt;/span&gt;&lt;span lang=&quot;RU&quot; style=&quot;font-size: 14.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt; &lt;br&gt;(&lt;/span&gt;&lt;span style=&quot;font-size: 14.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;Year&amp;nbsp;&lt;/span&gt;&lt;span lang=&quot;RU&quot; style=&quot;font-size: 14.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;&amp;lt; 1583)&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="110" y="215" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=18;endArrow=open;endFill=0;" parent="1" source="bTbruFKralg8F1_GHAUO-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="330" />
+              <mxPoint x="414" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-17" value="IsLeapYear := True" style="whiteSpace=wrap;html=1;fontSize=18;fontFamily=Times New Roman;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-19" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="450" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-20" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="424" y="245" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=18;endArrow=open;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="bTbruFKralg8F1_GHAUO-27" target="bTbruFKralg8F1_GHAUO-30" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=18;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="bTbruFKralg8F1_GHAUO-27" target="bTbruFKralg8F1_GHAUO-47" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-27" value="Условие" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Times New Roman;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-28" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontFamily=Times New Roman;fontSize=18;flipH=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="320" width="30" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-29" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Times New Roman;fontSize=18;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="bTbruFKralg8F1_GHAUO-27" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="370.0000000000001" as="sourcePoint" />
+            <mxPoint x="320" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=18;endArrow=open;endFill=0;" parent="1" source="bTbruFKralg8F1_GHAUO-30" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-30" value="IsLeapYear := True" style="whiteSpace=wrap;html=1;fontSize=18;fontFamily=Times New Roman;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-31" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="450" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-32" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="424" y="385" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-35" value="&lt;span style=&quot;font-size: 14.0pt ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;(Year &amp;gt; 1582) and &lt;br&gt;(Year mod 4 = 0) and &lt;br&gt;(Year mod 100 &amp;lt;&amp;gt; 0) or&lt;br&gt;(Year mod 400 = 0)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="130" y="320" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=18;endArrow=open;endFill=0;" parent="1" source="bTbruFKralg8F1_GHAUO-47" target="bTbruFKralg8F1_GHAUO-55" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=16;endArrow=none;endFill=0;" parent="1" source="bTbruFKralg8F1_GHAUO-47" target="bTbruFKralg8F1_GHAUO-58" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-47" value="Year &amp;lt; 1583" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Times New Roman;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-49" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="450" y="470" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-50" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="424" y="525" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=16;endArrow=open;endFill=0;" parent="1" source="bTbruFKralg8F1_GHAUO-55" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="700" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-55" value="LeapYearCount := (Year - 1) div 4" style="whiteSpace=wrap;html=1;fontSize=18;fontFamily=Times New Roman;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-58" value="LeapYearCount := 10 + (Year - 1) div 4 + (Year - 1201) div 400 - (Year - 1601) div 100" style="whiteSpace=wrap;html=1;fontSize=18;fontFamily=Times New Roman;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="555" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=18;endArrow=none;endFill=0;" parent="1" target="bTbruFKralg8F1_GHAUO-60" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="415" y="685" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-60" value="FirstYearWeekDay := (Year + LeapYearCount + 4) mod 7" style="whiteSpace=wrap;html=1;fontSize=16;fontFamily=Times New Roman;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="710" width="120" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=16;endArrow=none;endFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="bTbruFKralg8F1_GHAUO-61" target="bTbruFKralg8F1_GHAUO-60" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-61" value="A1&lt;br&gt;I := Jan; I &amp;lt;&amp;gt; Dec;" style="shape=loopLimit;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="795" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-65" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;fontSize=16;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="399" y="865" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-67" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontFamily=Times New Roman;fontSize=18;flipH=0;" parent="1" vertex="1">
+          <mxGeometry x="450" y="860" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-68" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Times New Roman;fontSize=18;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="429" y="879.92" as="sourcePoint" />
+            <mxPoint x="453" y="879.92" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-69" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Times New Roman;fontSize=16;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="bTbruFKralg8F1_GHAUO-65" target="bTbruFKralg8F1_GHAUO-61" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="361" y="915" as="sourcePoint" />
+            <mxPoint x="411" y="865" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-70" value="К стр. 8" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="474" y="865" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=16;endArrow=none;endFill=0;" parent="1" source="bTbruFKralg8F1_GHAUO-71" target="bTbruFKralg8F1_GHAUO-87" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-71" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;fontSize=16;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="398" y="1185" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-72" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontFamily=Times New Roman;fontSize=18;flipH=1;" parent="1" vertex="1">
+          <mxGeometry x="344" y="1180" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-73" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Times New Roman;fontSize=18;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="374" y="1199.94" as="sourcePoint" />
+            <mxPoint x="398" y="1199.94" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-74" value="Из стр. 7" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="279" y="1185" width="74" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=18;endArrow=open;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="bTbruFKralg8F1_GHAUO-87" target="bTbruFKralg8F1_GHAUO-89" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="569" y="1300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="569" y="1260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-87" value="IsLeapYear" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Times New Roman;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="353" y="1230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=16;endArrow=open;endFill=0;" parent="1" source="bTbruFKralg8F1_GHAUO-89" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="1430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="569" y="1430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-89" value="&lt;span style=&quot;font-size: 16px ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;Day := (8 - ( FirstYearWeekDay&lt;br style=&quot;font-size: 16px&quot;&gt;+ DaysFromLeap YearJan [I]) mod 7) mod 8&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=16;fontFamily=Times New Roman;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="509" y="1310" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-90" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="449" y="1220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-91" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="423" y="1275" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=16;endArrow=none;endFill=0;" parent="1" target="bTbruFKralg8F1_GHAUO-97" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="1290" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=16;endArrow=none;endFill=0;" parent="1" source="bTbruFKralg8F1_GHAUO-97" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="1440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-97" value="&lt;span style=&quot;font-size: 16px ; font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;Day := (8 - ( FirstYearWeekDay + DaysFromJan [I]) mod 7) mod 8&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=16;fontFamily=Times New Roman;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="1305" width="120" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-100" value="Day = 0" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;fontFamily=Times New Roman;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="1440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-101" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="424" y="1485" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-103" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="449" y="1430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=18;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="bTbruFKralg8F1_GHAUO-106" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="1520" as="targetPoint" />
+            <mxPoint x="414" y="1500" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=16;endArrow=none;endFill=0;" parent="1" source="bTbruFKralg8F1_GHAUO-106" target="bTbruFKralg8F1_GHAUO-110" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-106" value="Ввод Day" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fontSize=18;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="344" y="1560" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=18;endArrow=open;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="569" y="1520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="569" y="1470" />
+            </Array>
+            <mxPoint x="473" y="1470" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=16;endArrow=open;endFill=0;" parent="1" source="bTbruFKralg8F1_GHAUO-108" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="1550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="569" y="1550" />
+              <mxPoint x="414" y="1550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-108" value="Day := 1" style="whiteSpace=wrap;html=1;fontSize=18;fontFamily=Times New Roman;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="509" y="1490" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Times New Roman;fontSize=16;endArrow=none;endFill=0;" parent="1" source="bTbruFKralg8F1_GHAUO-110" target="bTbruFKralg8F1_GHAUO-112" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-110" value="Succ(I)&lt;br&gt;A1" style="shape=loopLimit;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;strokeWidth=1;flipV=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="1630" width="123" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bTbruFKralg8F1_GHAUO-112" value="Выход" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=18;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="357" y="1680" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
